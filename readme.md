@@ -1,5 +1,3 @@
-<p align="center"><img src="https://github.com/ertaj/LaraVue/blob/master/demoFile.gif?raw=true"></p>
-
 ## About LaraVue
 
 LaraVue is an open source admin panel project built with Laravel 5.4 and Vue 2.js.
@@ -9,6 +7,9 @@ LaraVue is an open source admin panel project built with Laravel 5.4 and Vue 2.j
 - rtl support
 
 - Fetach Sidebar items from server
+
+<p align="center"><img src="https://github.com/ertaj/LaraVue/blob/master/demoFile.gif?raw=true"></p>
+
 
 ## Installation
 

@@ -1,0 +1,39 @@
+.navbar-inner {
+    background-color: #25313e;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    left: 0;
+    top:0;
+    z-index: 9999;
+    right: 0;
+    ul{
+        margin:0;
+        padding:0;
+    }
+    li {
+        list-style: none;
+        float: right;
+    }
+    .logo {
+        display: none;
+        width: $sidebar-width;
+        text-align: center;
+    }
+    .sidebar-toggle,
+    .sidebar-hidden {
+        color: #adbece;
+        cursor: pointer;
+        font-size: 18px;
+        padding: 16px 24.5px;
+    }
+    .sidebar-toggle:hover,
+    .sidebar-hidden:hover {
+        background: #364150;
+        color: #fff;
+    }
+}
+
+.sidebar-expanded .navbar-inner .logo {
+    display: block;
+}

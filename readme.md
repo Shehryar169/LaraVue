@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ertaj/LaraVue/master/demo.gif"></p>
+<p align="center"><img src="https://github.com/ertaj/LaraVue/blob/master/demoFile.gif?raw=true"></p>
 
 ## About LaraVue
 
